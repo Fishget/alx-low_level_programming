@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  *_strlen -lenght of a string
  *@s: A pointer to an int that will e changed/updated
