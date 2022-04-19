@@ -16,7 +16,7 @@ return (n >= '0' && n <= '9');
  */
 int _atoi(char *s)
 {
-unsinged int number, i;
+unsigned int number, i;
 int sign;
 
 sign = 1;
