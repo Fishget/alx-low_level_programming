@@ -7,7 +7,7 @@
  *Return: void which means our answer is correct
  */
 
-Void print_rev(char *s)
+void print_rev(char *s)
 {
 int i;
 
