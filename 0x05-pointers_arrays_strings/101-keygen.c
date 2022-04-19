@@ -3,8 +3,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Task 11
-*/
+ */
 int main(void)
 {
 int num;
