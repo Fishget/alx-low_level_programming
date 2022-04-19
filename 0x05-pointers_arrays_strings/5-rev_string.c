@@ -15,7 +15,7 @@ int length = 0;
 for (i = 0; s[i]; i++)
 {
 length++;
-
+}
 start_c = s;
 end_c = s;
 
@@ -33,4 +33,4 @@ start_c++;
 end_c--;
 }
 }
-}
+
