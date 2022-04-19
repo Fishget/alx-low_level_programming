@@ -6,6 +6,7 @@
  *
  *Return: Void which means it is correct
  */
+
 void puts2(char *str)
 {
 int a;
