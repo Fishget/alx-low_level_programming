@@ -1,5 +1,5 @@
 #include "main.h"
-#incude <stdio.h>
+#include <stdio.h>
 /**
  *print_array - prints n elmments of an array intergers
  *@a: A pointer to an int that will be updted/changed
@@ -22,5 +22,5 @@ printf (",");
 }
 i++;
 }
-printf("\n")
+printf("\n");
 }
