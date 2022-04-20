@@ -6,7 +6,7 @@
  * Return: Always 0.
   */
 
-void print_alphabet_10x(void)
+void print_alphabet(void)
 {
 int i;
 char c;
