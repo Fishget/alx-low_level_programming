@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-    * main - Prints combination of numbers
-      *
-        * Return: Always (Success)
-	  */
+ * main - Prints combination of numbers
+ *
+ * Return: Always (Success)
+ */
 int main(void)
 {
 	int c, i;
