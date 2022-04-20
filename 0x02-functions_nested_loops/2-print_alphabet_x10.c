@@ -6,13 +6,18 @@
  * Return: Always 0.
   */
 
-void print_alphabet(void)
+void print_alphabet_10x(void)
 {
-char alphabet;
+int i;
+char c;
 
-for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+for (i = 0; i<10 ; i++)
 {
-_putchar(alphabet);
+	for (c = 'a'; c <= 'z'; c++)
+	{
+		 _putchar(c);
+	}
+	_putchar(\n);
 }
 _putchar('\n');
 }
