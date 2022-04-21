@@ -1,4 +1,4 @@
-i#nclude "main.h"
+#include "main.h"
 /**
  * mul -multiplies two integers
  *@a: print int
